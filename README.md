@@ -1,6 +1,14 @@
 <div id="header" align="center">
-  
   <h1>Its-Maestro</h1>
+  <img src="https://github.com/itsmaestro/itsmaestro/blob/main/Untitled-fotor-bg-remover-20230430175412.png" width="150" height="150"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/ian-meister-a4b658228/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://ecpi.joinhandshake.com/stu/users/45186388">
+    <img src="https://img.shields.io/badge/handshake-green?style=for-the-badge&logo=handshake&logoColor=black" alt="Handshake Badge"/>
+  </a>
+</div>
 </div>
 <div id="mainbody" align="left">
   <h2>About Me</h2>
