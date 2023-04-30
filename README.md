@@ -1,4 +1,6 @@
-### Its-Maestro
+<div id="header" align="center">
+  Its-Maestro
+</div>
 ## About Me
 - Ian Meister
 - Currently trying to expand my knowledge in the world of Full-Stack Engineering
