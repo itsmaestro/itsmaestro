@@ -6,7 +6,8 @@
   - CS50x, CS50p, and CS50 SQL
   - Codecadamey - Full-Stack Engineer career path
 ## Current projects
- - ...
+ - Beginning work on a Destiny inspired idle game
+ -
 ## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
