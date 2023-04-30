@@ -1,4 +1,14 @@
-### Hi there 👋
+### Its-Maestro
+
+## About Me
+- Ian Meister
+- Currently trying to expand my knowledge in the world of Full-Stack Engineering
+- Currently Studying
+  - CS50x, CS50p, and CS50 SQL
+  - Codecadamey - Full-Stack Engineer career path
+ ## Current projects
+  - ...
+
 
 <!--
 **itsmaestro/itsmaestro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
