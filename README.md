@@ -22,8 +22,9 @@
     </ul>
   </ul>
   <h2>CurrentProjects</h2>
-    <li>Beginning work on a Destiny inspired idle game</li>
-
+    <ul>
+      <li>Beginning work on a Destiny inspired idle game</li>
+    </ul>
   ## :hammer_and_wrench: Languages and Tools :
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
