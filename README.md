@@ -1,7 +1,7 @@
-<header id="header" align="center">
+<div id="header" align="center">
   
-  Its-Maestro
-</header>
+  <h1>Its-Maestro</h1>
+</div>
 <div id="mainbody" align="left">
   <h2>About Me</h2>
   <ul>
