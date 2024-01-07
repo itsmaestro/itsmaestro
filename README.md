@@ -14,12 +14,7 @@
   <h2>About Me</h2>
   <ul>
     <li>Ian Meister</li>
-    <li>Currently trying to expand my knowledge in the world of Full-Stack Engineering</li>
-    <li>Currently Studying</li>
-    <ul>
-      <li>CS50x, CS50p, and CS50 SQL</li>
-      <li>Codecadamey - Full-Stack Engineer career path</li>
-    </ul>
+    <li>Full-stack Dev</li>
   </ul>
   <h2>CurrentProjects</h2>
     <ul>
